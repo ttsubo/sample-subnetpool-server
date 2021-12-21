@@ -1,0 +1,10 @@
+{
+  "subnet": {
+    "ip_version": 6,
+    "ipv6_address_mode": "dhcpv6-stateful",
+    "ipv6_ra_mode": "dhcpv6-stateful",
+    "name": "subnet-ipv6-1",
+    "network_id": "22222222-2222-2222-2222-222222222222",
+    "subnetpool_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  }
+}

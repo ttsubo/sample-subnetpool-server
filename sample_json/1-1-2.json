@@ -1,0 +1,8 @@
+{
+  "subnet": {
+    "ip_version": 4,
+    "name": "subnet-ipv4-1",
+    "network_id": "11111111-1111-1111-1111-111111111111",
+    "subnetpool_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  }
+}

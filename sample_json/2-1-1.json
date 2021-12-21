@@ -1,0 +1,11 @@
+{
+  "subnetpool": {
+    "default_prefixlen": 64,
+    "max_prefixlen": 64,
+    "min_prefixlen": 64,
+    "name": "subnetpool-ipv6-1",
+    "prefixes": [
+      "2001:DB8:1111::/48"
+    ]
+  }
+}
